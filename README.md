@@ -85,7 +85,7 @@ Let's connect and build something amazing! 🚀
 
 ---
 
-### 🙏 Thank You for Visiting!  
+### 🙏 Thank You for Visiting My Github Profile!  
 
 If you like my work or find it helpful, feel free to ⭐ my repositories. Let's collaborate, learn, and grow together in this amazing journey of coding!  
 
